@@ -9,9 +9,9 @@ h1{
 .blue-color{
     color:blue;
 }
-section{
+.Flexibe-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 50%;
@@ -27,9 +27,6 @@ section{
     color:black;
     font-weight: 700;
     border-radius: 10px;
- }
- .top-left-border{
-     background-repeat: no-repeat;
  }
  .my mission{
      background-image: url(images/Background.png) ;
